@@ -1,3 +1,13 @@
+
 ===
 git clone https://github.com/angelabauer/test-github-pages.git
 ===
+
+
+===
+git config --global user.name "Burak Unuvar"
+git config --global user.email "burakunuvar@gmail.com"
+git config --global --edit
+git commit --amend --reset-author
+===
+
