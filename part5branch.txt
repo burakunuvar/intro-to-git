@@ -4,3 +4,5 @@ git branch // lists branches
 git branch1 // generate branch1 
 git checkout branch1 // switches to branch1
 ===
+
+branch2 generated through console, since branch1 is not listed on GitHub
