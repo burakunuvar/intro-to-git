@@ -1,1 +1,7 @@
 all updates are being made on branch with name branch1 
+
+and then it will be merged with command :
+
+==== 
+git merge branch1
+====
