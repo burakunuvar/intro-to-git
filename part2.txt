@@ -1,3 +1,4 @@
-git diff chapter1.txt // for differences 
 
-checkout chapter3.txt // to turn back to latest version
+git diff // to list all differences
+git diff part2.txt // to list differences of a specific file 
+checkout part2.txt // to turn back to latest version
