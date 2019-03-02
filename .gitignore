@@ -1,0 +1,12 @@
+#files to be ignored
+secrets.txt
+passwords.txt
+
+#hidden files to be ignored
+.DS_Store
+
+#all css files
+*.css
+
+
+

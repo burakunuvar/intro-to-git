@@ -1,4 +1,14 @@
 ====
 git remote add origin https://github.com/burakunuvar/intro-to-git.git
 git push -u origin master
+
+===
+git rm --cached -r . // remove all from staging area
+===
+
+===
+
+nano gitignore
+	"secret.txt
+	 password.txt " 
 ===
