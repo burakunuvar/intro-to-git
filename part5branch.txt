@@ -1,0 +1,6 @@
+updates on branch file
+===
+git branch // lists branches
+git branch1 // generate branch1 
+git checkout branch1 // switches to branch1
+===
