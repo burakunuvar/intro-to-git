@@ -56,10 +56,8 @@
      
 ```
 
-
-https://learngitbranching.js.org/
-https://medium.com/@lucasmaurer/git-gud-the-working-tree-staging-area-and-local-repo-a1f0f4822018
-
+[practice more](https://learngitbranching.js.org/) 
+[an article to summarize](https://medium.com/@lucasmaurer/git-gud-the-working-tree-staging-area-and-local-repo-a1f0f4822018)
 
 > Written with [StackEdit](https://stackedit.io/).
 
