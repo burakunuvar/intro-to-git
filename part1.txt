@@ -1,0 +1,14 @@
+mkdir Story
+touch chapter1.txt
+nano chapter1.txt
+git init
+========
+
+git status
+git add chapter1.txt // adds to the staging area
+git commit -m "complete chapter1" // adds to repository 
+
+========
+
+git log
+=======
