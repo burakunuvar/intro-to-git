@@ -1,0 +1,3 @@
+git diff chapter1.txt // for differences 
+
+checkout chapter3.txt // to turn back to latest version

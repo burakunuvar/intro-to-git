@@ -12,3 +12,8 @@ git commit -m "complete chapter1" // adds to repository
 
 git log
 =======
+
+git diff chapter1.txt // for differences 
+git checkout chapter3.txt // to turn back to latest version
+
+=======
